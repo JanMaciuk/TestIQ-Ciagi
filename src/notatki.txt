@@ -7,9 +7,11 @@ Kolokwium będzie 05.12
 Przykładowe kolokwium: tiny.cc/JavaExam1
 hasło JavaJavaJava
 
-Ideas:
+Ideas for implementation:
 Losuj czy będzie to ciąg artmetyczny, czy geometryczny.
 Wygeneruj losowo wzór tego ciągu.
 Wygeneruj "ciągi" losowych liczb - to będą fake ciągi.
 Użytkownik wybiera który ciąg jest prawdziwy (na prawde jest ciągiem).
 Użytkownik podaje następny wyraz ciągu.
+Zwracamy czy odpowiedź jest poprawna i jak długo użytkownikowi zajęło odgadnięcie.
+
