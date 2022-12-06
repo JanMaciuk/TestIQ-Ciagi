@@ -1,0 +1,15 @@
+wersja 1 to test na inteligencje matric Ravena
+wersja 2 to test na inteligencje w którym zgadujemy następny element losowego ciągu,
+czas mamy do końca semestru więc jakoś to udoskonalić, zrobić może jakieś fake ciągi i kolory itd
+Dodatkowo można też zrobić te adventure of Thor part 2 na +0.5 oceny
+
+Kolokwium będzie 05.12
+Przykładowe kolokwium: tiny.cc/JavaExam1
+hasło JavaJavaJava
+
+Ideas:
+Losuj czy będzie to ciąg artmetyczny, czy geometryczny.
+Wygeneruj losowo wzór tego ciągu.
+Wygeneruj "ciągi" losowych liczb - to będą fake ciągi.
+Użytkownik wybiera który ciąg jest prawdziwy (na prawde jest ciągiem).
+Użytkownik podaje następny wyraz ciągu.
