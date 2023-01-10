@@ -3,11 +3,13 @@ wersja 2 to test na inteligencje w którym zgadujemy następny element losowego 
 czas mamy do końca semestru więc jakoś to udoskonalić, zrobić może jakieś fake ciągi i kolory itd
 Dodatkowo można też zrobić te adventure of Thor part 2 na +0.5 oceny
 
-Kolokwium będzie 05.12
-Przykładowe kolokwium: tiny.cc/JavaExam1
-hasło JavaJavaJava
+Drugi test, może zgadywanie zmiennych:
+5 jabłek i 3 gruszki kosztują 25zł
+2 grauszki i 5 jabłek kosztuje 20zł
+ile kosztuje jabłko a ile gruszka
 
 Ideas for implementation:
+GUI w swing
 Losuj czy będzie to ciąg artmetyczny, czy geometryczny.
 Wygeneruj losowo wzór tego ciągu.
 Wygeneruj "ciągi" losowych liczb - to będą fake ciągi.
