@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.ArrayList;
 
 
-public class Main {
+public class MainSequencesTestOnly {
     protected static Random random = new Random();
     protected static boolean czyArytmetyczny = random.nextBoolean();
     protected static int a = random.nextInt(2,10);
